@@ -1,3 +1,4 @@
-.gitignore
 /nbproject/private/
 /nbproject/
+/build/
+build/
